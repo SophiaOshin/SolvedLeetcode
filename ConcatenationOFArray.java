@@ -8,7 +8,7 @@ Return the array ans.
 Input: nums = [1,3,2,1]
 Output: [1,3,2,1,1,3,2,1]
 */
-public class ConcatenationofArray {
+public class ConcatenationOFArray {
     public static void main(String[] args) {
        int [] nums = {1,3,2,1};   
        int [] answer= getConcatenation(nums);
