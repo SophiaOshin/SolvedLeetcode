@@ -8,7 +8,7 @@ You can return the answer in any order.
 Input: nums = [2,7,11,15], target = 9
 Output: [0,1]
 */
-public class TwoSum {
+public class TwoSumArray {
     public static void main(String[] args) {
         int[] nums = {3,2,4};
          int target = 6;       
